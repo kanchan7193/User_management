@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="c815c1ec-8801-4358-b959-fad90b980e76" name="usermgmt" url="jdbc:mysql://localhost/usermgmt?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" />
+      <data-source id="793c1b68-0397-4374-86f0-cbecbf100b2b" name="usermgmt_mysql" url="jdbc:mysql://localhost/usermgmt_mysql?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" />
+    </data-sources>
+  </component>
+</project>

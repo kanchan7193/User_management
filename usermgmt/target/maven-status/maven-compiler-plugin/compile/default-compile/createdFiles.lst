@@ -1,0 +1,4 @@
+com\usermgmt\Usermgmt.class
+com\usermgmt\controller\UserController.class
+com\usermgmt\model\User.class
+com\usermgmt\repository\UserRepository.class
