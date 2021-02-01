@@ -5,10 +5,14 @@ react app + spring boot + mysql
 Demo : [video](https://youtu.be/c-BTl0NTe00)
 
 ## for mysql db and server
-install mysql server on windows, with workbench
-with user as usermgmt, pw as usermgmt
-then create database usermgmt; in workbench
-
+Install mysql server, mysql workbench on Windows
+While setting up create user as usermgmt with pw as usermgmt
+in workbench connect to mysql server
+then run
+```
+create database usermgmt; 
+```
+It will create empty database.
 ## To Run backend
 Install dependencies and run backend
 ```
