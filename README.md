@@ -10,16 +10,16 @@ with user as usermgmt, pw as usermgmt
 then create database usermgmt; in workbench
 
 ## To Run backend
-Install dependencies
+Install dependencies and run backend
 ```
+cd usermgmt
 mvn install
-```
-then run to up backend
-```
 mvn spring-boot:run
 ```
 ## To Run Frontend
+Install dependencies and run Frontend
 ```
+cd Frontend
 npm install 
 npm run start
 ```
